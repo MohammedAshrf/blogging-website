@@ -1,3 +1,5 @@
+===> Not completed
+
 => layout notes:
 1- work on 4 screens (mobile, tablet, laptop, computer) or
 (xs, sm, lg, xl)
